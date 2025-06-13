@@ -1,0 +1,22 @@
+cd ..
+ls
+sleep 2
+echo Finished!
+whoami && pwd
+/bin/ls -la
+echo "Done!"
+ls
+whoami
+time .
+time .c
+whoami 
+whoami && pwd
+cat format.c; echo "Done!"
+cd .. || echo "Failed!"
+cd ... || echo "Passed!"
+whoami && echo "Passed!"
+ls -la; echo "well"
+whoamii; echo "Good!"
+whoami; echo "Good!"
+ls -la; echo "Good!"
+whoami && echo "Good!"
